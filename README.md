@@ -1,7 +1,7 @@
 ![logo](https://github.com/Arvindkumar7738600/CodeWithMe/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate Data Science from Indian Institute Of Technology, Madras</h3>
-<img align="right" alt="coding" width="400" src="https:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-animation%2F916702624332%2F&psig=AOvVaw2CSnT0zbQm8OkOGj4SYn7g&ust=1747107845849000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi2so2CnY0DFQAAAAAdAAAAABAE
+<img align="right" alt="coding" width="0" src="https:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-animation%2F916702624332%2F&psig=AOvVaw2CSnT0zbQm8OkOGj4SYn7g&ust=1747107845849000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi2so2CnY0DFQAAAAAdAAAAABAE
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvindkumar7738600&label=Profile%20views&color=0e75b6&style=flat" alt="arvindkumar7738600" /> </p>
 
